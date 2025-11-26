@@ -1,0 +1,15 @@
+baseURL = 'https://cashflow-workbook.com/'
+languageCode = 'en-us'
+title = 'Cashflow & Networth Analysis Workbook'
+theme = 'bigspring-light'
+paginate = 3
+summaryLength = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
