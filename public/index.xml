@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cashflow &amp; Networth Analysis Workbook</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Cashflow &amp; Networth Analysis Workbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;.contact-container {&#xD;&#xA;  max-width: 700px;&#xD;&#xA;  margin: 0 auto;&#xD;&#xA;  padding: 2rem 1rem;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;.contact-card {&#xD;&#xA;  background: white;&#xD;&#xA;  border: 1px solid #e2e8f0;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  padding: 3rem;&#xD;&#xA;  box-shadow: 0 2px 10px rgba(0,0,0,0.05);&#xD;&#xA;}&#xD;&#xA;.contact-icon {&#xD;&#xA;  font-size: 4rem;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;}&#xD;&#xA;.contact-name {&#xD;&#xA;  font-size: 2rem;&#xD;&#xA;  color: #1a365d;&#xD;&#xA;  margin-bottom: 0.5rem;&#xD;&#xA;}&#xD;&#xA;.contact-title {&#xD;&#xA;  color: #718096;&#xD;&#xA;  margin-bottom: 2rem;&#xD;&#xA;}&#xD;&#xA;.contact-info {&#xD;&#xA;  margin-top: 2rem;&#xD;&#xA;}&#xD;&#xA;.contact-item {&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  gap: 0.75rem;&#xD;&#xA;  margin: 1rem 0;&#xD;&#xA;  font-size: 1.1rem;&#xD;&#xA;}&#xD;&#xA;.contact-item a {&#xD;&#xA;  color: #2b6cb0;&#xD;&#xA;  text-decoration: none;&#xD;&#xA;}&#xD;&#xA;.contact-item a:hover {&#xD;&#xA;  text-decoration: underline;&#xD;&#xA;}&#xD;&#xA;.contact-message {&#xD;&#xA;  margin-top: 2rem;&#xD;&#xA;  padding-top: 2rem;&#xD;&#xA;  border-top: 1px solid #e2e8f0;&#xD;&#xA;  color: #4a5568;&#xD;&#xA;  line-height: 1.7;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;contact-container&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;contact-card&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;contact-icon&#34;&gt;👋&lt;/div&gt;&#xD;&#xA;    &lt;h2 class=&#34;contact-name&#34;&gt;Sean Jackman&lt;/h2&gt;&#xD;&#xA;    &lt;p class=&#34;contact-title&#34;&gt;Creator of the Cashflow &amp; Networth Analysis Workbook&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/english/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/english/contact/</guid>
+      <description>&lt;h2 id=&#34;sean-jackman&#34;&gt;Sean Jackman&lt;/h2&gt;&#xA;&lt;p&gt;Creator of the Cashflow &amp;amp; Networth Analysis Workbook&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Cashflow and Networth Analysis Excel Workbook was designed to help you better understand your personal finances by providing detailed insights into your spending, income, assets, and liabilities over time, and by making your progress towards financial independence visible using powerful data visualizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/english/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/english/documentation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Cashflow and Networth Analysis Excel Workbook was designed to help you better understand your personal finances by providing detailed insights into your spending, income, assets, and liabilities over time, and by making your progress towards financial independence visible using powerful data visualizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purchase</title>
+      <link>http://localhost:1313/english/purchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/english/purchase/</guid>
+      <description>&lt;h2 id=&#34;choose-your-option&#34;&gt;Choose Your Option&lt;/h2&gt;&#xA;&lt;h3 id=&#34;free-trial&#34;&gt;Free Trial&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;$0 - forever&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Try an older version of the workbook to see if it meets your needs before purchasing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purchase</title>
+      <link>http://localhost:1313/purchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/purchase/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;.purchase-container {&#xD;&#xA;  max-width: 1000px;&#xD;&#xA;  margin: 0 auto;&#xD;&#xA;  padding: 2rem 1rem;&#xD;&#xA;}&#xD;&#xA;.purchase-options {&#xD;&#xA;  display: grid;&#xD;&#xA;  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));&#xD;&#xA;  gap: 2rem;&#xD;&#xA;  margin-top: 2rem;&#xD;&#xA;}&#xD;&#xA;.purchase-card {&#xD;&#xA;  border: 2px solid #e2e8f0;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  padding: 2rem;&#xD;&#xA;  background: white;&#xD;&#xA;  position: relative;&#xD;&#xA;}&#xD;&#xA;.purchase-card.featured {&#xD;&#xA;  border-color: #48bb78;&#xD;&#xA;  box-shadow: 0 4px 20px rgba(72, 187, 120, 0.2);&#xD;&#xA;}&#xD;&#xA;.purchase-card.featured::before {&#xD;&#xA;  content: &#34;RECOMMENDED&#34;;&#xD;&#xA;  position: absolute;&#xD;&#xA;  top: -12px;&#xD;&#xA;  left: 50%;&#xD;&#xA;  transform: translateX(-50%);&#xD;&#xA;  background: #48bb78;&#xD;&#xA;  color: white;&#xD;&#xA;  padding: 0.25rem 1rem;&#xD;&#xA;  border-radius: 20px;&#xD;&#xA;  font-size: 0.75rem;&#xD;&#xA;  font-weight: 600;&#xD;&#xA;}&#xD;&#xA;.card-header {&#xD;&#xA;  text-align: center;&#xD;&#xA;  padding-bottom: 1.5rem;&#xD;&#xA;  border-bottom: 1px solid #e2e8f0;&#xD;&#xA;  margin-bottom: 1.5rem;&#xD;&#xA;}&#xD;&#xA;.card-title {&#xD;&#xA;  font-size: 1.5rem;&#xD;&#xA;  color: #1a365d;&#xD;&#xA;  margin-bottom: 0.5rem;&#xD;&#xA;}&#xD;&#xA;.card-price {&#xD;&#xA;  font-size: 2.5rem;&#xD;&#xA;  font-weight: 700;&#xD;&#xA;  color: #2d3748;&#xD;&#xA;}&#xD;&#xA;.card-price span {&#xD;&#xA;  font-size: 1rem;&#xD;&#xA;  font-weight: 400;&#xD;&#xA;  color: #718096;&#xD;&#xA;}&#xD;&#xA;.card-description {&#xD;&#xA;  color: #4a5568;&#xD;&#xA;  margin-bottom: 1.5rem;&#xD;&#xA;  line-height: 1.6;&#xD;&#xA;}&#xD;&#xA;.features-list {&#xD;&#xA;  list-style: none;&#xD;&#xA;  padding: 0;&#xD;&#xA;  margin: 0 0 2rem 0;&#xD;&#xA;}&#xD;&#xA;.features-list li {&#xD;&#xA;  padding: 0.5rem 0;&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: flex-start;&#xD;&#xA;  gap: 0.5rem;&#xD;&#xA;}&#xD;&#xA;.features-list li::before {&#xD;&#xA;  content: &#34;✓&#34;;&#xD;&#xA;  color: #48bb78;&#xD;&#xA;  font-weight: bold;&#xD;&#xA;  flex-shrink: 0;&#xD;&#xA;}&#xD;&#xA;.purchase-button {&#xD;&#xA;  display: block;&#xD;&#xA;  width: 100%;&#xD;&#xA;  padding: 1rem;&#xD;&#xA;  text-align: center;&#xD;&#xA;  border-radius: 8px;&#xD;&#xA;  font-size: 1.1rem;&#xD;&#xA;  font-weight: 600;&#xD;&#xA;  text-decoration: none;&#xD;&#xA;  transition: all 0.3s ease;&#xD;&#xA;}&#xD;&#xA;.purchase-button.primary {&#xD;&#xA;  background: #48bb78;&#xD;&#xA;  color: white;&#xD;&#xA;}&#xD;&#xA;.purchase-button.primary:hover {&#xD;&#xA;  background: #38a169;&#xD;&#xA;  color: white;&#xD;&#xA;}&#xD;&#xA;.purchase-button.secondary {&#xD;&#xA;  background: #e2e8f0;&#xD;&#xA;  color: #2d3748;&#xD;&#xA;}&#xD;&#xA;.purchase-button.secondary:hover {&#xD;&#xA;  background: #cbd5e0;&#xD;&#xA;}&#xD;&#xA;.guarantee-section {&#xD;&#xA;  text-align: center;&#xD;&#xA;  margin-top: 3rem;&#xD;&#xA;  padding: 2rem;&#xD;&#xA;  background: #f7fafc;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;}&#xD;&#xA;.guarantee-section h3 {&#xD;&#xA;  color: #1a365d;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;}&#xD;&#xA;.faq-section {&#xD;&#xA;  margin-top: 3rem;&#xD;&#xA;}&#xD;&#xA;.faq-section h2 {&#xD;&#xA;  text-align: center;&#xD;&#xA;  color: #1a365d;&#xD;&#xA;  margin-bottom: 2rem;&#xD;&#xA;}&#xD;&#xA;.faq-item {&#xD;&#xA;  border-bottom: 1px solid #e2e8f0;&#xD;&#xA;  padding: 1rem 0;&#xD;&#xA;}&#xD;&#xA;.faq-item h4 {&#xD;&#xA;  color: #2d3748;&#xD;&#xA;  margin-bottom: 0.5rem;&#xD;&#xA;}&#xD;&#xA;.faq-item p {&#xD;&#xA;  color: #4a5568;&#xD;&#xA;  margin: 0;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;purchase-container&#34;&gt;&#xD;&#xA;  &lt;h2 style=&#34;text-align: center; color: #1a365d;&#34;&gt;Choose Your Option&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;purchase-options&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;purchase-card&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;card-header&#34;&gt;&#xD;&#xA;        &lt;h3 class=&#34;card-title&#34;&gt;Free Trial&lt;/h3&gt;&#xD;&#xA;        &lt;p class=&#34;card-price&#34;&gt;$0 &lt;span&gt;forever&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
