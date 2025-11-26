@@ -2,6 +2,10 @@
 title: "Cashflow & Networth Analysis Workbook"
 description: "Take control of your personal finances with a powerful Excel workbook"
 featured_image: "/images/fi-summary-dashboard.png"
+menu:
+  main:
+    name: "Home"
+    weight: 1
 ---
 
 {{< rawhtml >}}

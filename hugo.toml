@@ -13,28 +13,6 @@ theme = 'ananke'
   featured_image = "/images/fi-summary-dashboard.png"
   recent_posts_number = 3
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "documentation"
-    name = "Documentation"
-    url = "/documentation/"
-    weight = 2
-  [[menu.main]]
-    identifier = "purchase"
-    name = "Purchase"
-    url = "/purchase/"
-    weight = 3
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

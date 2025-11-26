@@ -4,6 +4,7 @@ description: "Get in touch"
 featured_image: "/images/fi-summary-dashboard.png"
 menu:
   main:
+    name: "Contact"
     weight: 4
 ---
 

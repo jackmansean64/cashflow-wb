@@ -4,6 +4,7 @@ description: "Complete guide to using the Cashflow & Networth Analysis Workbook"
 featured_image: "/images/workbook-map.png"
 menu:
   main:
+    name: "Documentation"
     weight: 2
 ---
 

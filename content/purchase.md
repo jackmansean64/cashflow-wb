@@ -4,6 +4,7 @@ description: "Get the Cashflow & Networth Analysis Workbook"
 featured_image: "/images/fi-summary-dashboard.png"
 menu:
   main:
+    name: "Purchase"
     weight: 3
 ---
 
