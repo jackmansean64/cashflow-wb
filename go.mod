@@ -1,4 +1,4 @@
-module examplesite.com
+module github.com/seanj/cashflow-wb
 
 go 1.20
 
