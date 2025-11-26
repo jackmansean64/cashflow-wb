@@ -1,0 +1,90 @@
+/* Custom styles for Cashflow Workbook site */
+
+/* Documentation page improvements */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
+}
+
+.prose h2 {
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+.prose h3 {
+  color: #2d3748;
+  margin-top: 2rem;
+}
+
+.prose h4 {
+  color: #4a5568;
+}
+
+/* Navigation improvements */
+nav a {
+  transition: opacity 0.2s ease;
+}
+
+/* Button hover effects */
+a.purchase-button,
+a.cta-button {
+  transition: all 0.3s ease;
+}
+
+/* Card hover effects */
+.problem-card,
+.purchase-card,
+.testimonial-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.problem-card:hover,
+.purchase-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .hero-section h2 {
+    font-size: 1.5rem;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+  }
+
+  .card-price {
+    font-size: 2rem;
+  }
+}
+
+/* Table of contents styling for documentation */
+#TableOfContents {
+  background: #f7fafc;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+#TableOfContents ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+#TableOfContents > ul {
+  padding-left: 0;
+}
+
+#TableOfContents a {
+  color: #2b6cb0;
+  text-decoration: none;
+}
+
+#TableOfContents a:hover {
+  text-decoration: underline;
+}
