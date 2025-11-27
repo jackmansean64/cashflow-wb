@@ -7,6 +7,7 @@ theme: hugo-fresh
 module:
   imports:
     - path: github.com/StefMa/hugo-fresh
+    - path: github.com/jgthms/bulma
 
 params:
   # Logo
