@@ -1,7 +1,7 @@
 ---
 title: "Purchase"
-description: "Get the Cashflow & Networth Analysis Workbook"
-featured_image: "/images/fi-summary-dashboard.png"
+sidebar: false
+include_footer: true
 ---
 
 ## Choose Your Option

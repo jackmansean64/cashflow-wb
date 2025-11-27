@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-description: "Get in touch"
-featured_image: "/images/fi-summary-dashboard.png"
+sidebar: false
+include_footer: true
 ---
 
 ## Sean Jackman

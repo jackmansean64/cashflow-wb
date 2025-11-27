@@ -1,7 +1,7 @@
 ---
 title: "Documentation"
-description: "Complete guide to using the Cashflow & Networth Analysis Workbook"
-featured_image: "/images/workbook-map.png"
+sidebar: false
+include_footer: true
 ---
 
 ## Overview
