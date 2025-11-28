@@ -5,6 +5,12 @@ title: Cashflow & Networth Analysis Workbook
 module:
   imports:
     - path: github.com/StefMa/hugo-fresh
+    - path: github.com/jgthms/bulma
+      mounts:
+        - source: bulma.sass
+          target: assets/bulma/bulma.sass
+        - source: bulma-rtl.sass
+          target: assets/bulma/bulma-rtl.sass
 
 params:
   # Logo
